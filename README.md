@@ -4,9 +4,8 @@
   <div style="flex: 1;">
     <h3>Sono Chiara Dragonetti</h3>
     <p>- Attualmente studio <strong>Data Analysis</strong> e <strong>Intelligenza Artificiale</strong> con <strong>Develhope</strong>.</p>
-    <p>- <strong>Web Designer</strong> con una grande passione per la creazione di siti web e grafica, sempre alla ricerca di soluzioni innovative.</p>
-    <p>- Mi occupo di progettare esperienze digitali che siano sia funzionali che visivamente accattivanti.</p>
-    <p>- Sto lavorando su progetti che combinano le mie competenze in <strong>Web Design</strong> e <strong>AI</strong>, con l'obiettivo di crescere professionalmente e contribuire al mondo digitale.</p>
+    <p>- <strong>Web Designer</strong> con una grande passione per la creazione di siti web e grafica.</p>
+   
 
     <p>⭐️ Da <a href="https://www.linkedin.com/in/dragonetti-chiara/">ChiaraDragonetti</a></p>
   </div>
