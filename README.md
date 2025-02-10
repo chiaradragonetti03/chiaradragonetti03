@@ -11,11 +11,6 @@
     <p>⭐️ Da <a href="https://www.linkedin.com/in/dragonetti-chiara/">ChiaraDragonetti</a></p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <iframe src="https://lottie.host/46173807-7b10-4ae4-8f25-23dec4576a14/LMXX7a6SqC.lottie" 
-            style="border: none;" 
-            width="300" 
-            height="300" 
-            alt="Lottie Animation">
-    </iframe>
+    ![Lottie Animation](https://lottie.host/46173807-7b10-4ae4-8f25-23dec4576a14/LMXX7a6SqC.lottie)
   </div>
 </div>
