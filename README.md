@@ -1,10 +1,14 @@
-# Ciao Mondo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Sono Chiara Dragonetti
+
+<a href="https://www.linkedin.com/in/dragonetti-chiara/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+  ### Sono Chiara Dragonetti
 
 - Attualmente studio **Data Analysis** e **Intelligenza Artificiale** con **Develhope**.
-- **Web Designer** con una grande passione per la creazione di siti web e grafica.
+- **Web Designer** per la creazione di siti web e grafica.
 
-<dotlottie-player src="https://app.lottiefiles.com/animation/c2cca768-970e-47c6-ad0c-9d7935ce4c3f" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
-
-⭐️ Da [ChiaraDragonetti](https://www.linkedin.com/in/dragonetti-chiara/)
+⭐️ From [chiaradragonetti03]
