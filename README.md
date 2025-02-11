@@ -12,3 +12,4 @@
 - **Web Designer** per la creazione di siti web e grafica.
 
 ⭐️ From [chiaradragonetti03]
+
